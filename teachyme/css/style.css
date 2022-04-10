@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bgcolor{
+    background-color: #d9f1f152;
+    width: 100%;
+ 
+}
+.first-card{
+    background-color: #ffff;
+    text-align: center;
+ 
+}
+.btn{
+    background-color: #ff774f;
+    color: #fff;
+    font-size: 30px;
+    
+}
+.btn:hover{
+    color: #ff774f;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #ff774f;
+}
+.rounded {
+    width: 30%;
+}
+.card-title{
+    font-weight: bold;
+}
+.icon{
+    color: #ff774f;
+    font-size: 17px;
+}
+.school-footer i{
+    font-size: 23px;
+    margin-left: 16%;
+}
+.school-footer .fa-arrow-circle-o-right{
+    color: #ff774f;
+}
+.school-card{
+    box-shadow: 0 0 30px rgb(0 0 0 / 15%);
+}
+/* footer */
+.bgfooter{
+    margin-top: 10%;
+    background-color:  #0c254a;
+   
+ 
+    color: rgb(194, 192, 192);
+}
+
+.bgfooter img{
+    width: 90px;
+}
+.text-uppercase{
+    color: #fff;
+}
+.bgfooter a{
+    color: rgb(214, 214, 214);
+
+}
+.bgfooter a:hover{
+    text-decoration: none;
+    color: #ff774f;
+}
+.one{
+    background-color: rgb(214, 214, 214);
+}
+ 
